@@ -24,7 +24,7 @@
 
 
 - (void)applicationWillResignActive:(UIApplication *)application {
-    // Sent when the appli
+    
     
 }
 
